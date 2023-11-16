@@ -6,7 +6,7 @@ import StrategyOn.service.Frete;
 import StrategyOn.service.TipoFrete;
 
 
-public class Exemplo {
+public class Main {
 
 	public static void main(String[] args) {
 
